@@ -14,5 +14,4 @@ docker-compose up -d
 7. Ejecutar SEED - en caso de que se quiera cargar una data en especial 
 ```
 http://localhost:3000/api/seed
-```# nestBackendExamenes
 # nestBackendExamenes
