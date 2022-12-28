@@ -1,6 +1,6 @@
 
 
-# Teslo API
+# AppExamenes API
 1. Clonar Proyecto
 2. Ejecutar ```yarn install``` para crear dependencias
 3. Clonar el archivo ```.env.template``` y renombrarlo a ```.env```
@@ -15,3 +15,4 @@ docker-compose up -d
 ```
 http://localhost:3000/api/seed
 ```# nestBackendExamenes
+# nestBackendExamenes
